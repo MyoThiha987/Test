@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MM Chel</string>
+    <string name="menu_two_d">2D</string>
+    <string name="menu_three_d">3D</string>
+    <string name="menu_guess">""</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mm">MM</string>
+    <string name="chel">CHEL</string>
+    <string name="seventy_nine">79</string>
+    <string name="time">12:50 AM</string>
+    <string name="date">7-5-2-2020</string>
+</resources>
